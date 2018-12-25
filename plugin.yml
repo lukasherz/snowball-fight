@@ -1,0 +1,5 @@
+name: SnowballFight
+version: 1.0
+author: "Lukas Herz"
+
+main: de.lukasherz.snowballFight.SnowballFight
