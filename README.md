@@ -15,7 +15,7 @@ git https://github.com/luguhe/snowball-fight.git
 cd snowball-fight
 ```
 
-Add the CraftBukkit 1.12.2 (see [here](https://www.spigotmc.org/wiki/buildtools/#1-12-2 "go to spigot wiki") how to build) in the directory `lib`.
+Add the CraftBukkit 1.12.2 (see [here](https://www.spigotmc.org/wiki/buildtools/#1-12-2 "go to spigot wiki") how to build) named `craftbukkit_1.12.2.jar` in the directory `lib`.
 ```bash
 mkdir lib
 mv /path/to/craftbukkit_1.12.2.jar lib/craftbukkit_1.12.2.jar 
