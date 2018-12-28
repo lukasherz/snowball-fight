@@ -20,6 +20,8 @@ public class SnowballFight extends JavaPlugin {
     public void onEnable() {
         plugin = this;
 
+        createConfig();
+
         snowballMovesListener = new SnowballMovesListener(jsonFile);
 
         Bukkit.getPluginManager().registerEvents(snowballMovesListener, plugin);
